@@ -1,0 +1,22 @@
+{
+  "name": "simple-bank",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myrmex-systems/simple-bank.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myrmex-systems/simple-bank/issues"
+  },
+  "homepage": "https://github.com/myrmex-systems/simple-bank#readme"
+}
